@@ -23,7 +23,7 @@
 
 <img src="assets/ethereum.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/chainlink.svg" alt="Chainlink" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/vechain.svg" alt="Chainlink" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/vechain.svg" alt="Vechain" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/aeternity.svg" alt="Aeternity" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/ocean-protocol.svg" alt="Ocean Protocol" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/filecoin.svg" alt="Filecoin" height="40" style="vertical-align:top; margin:4px">
