@@ -5,7 +5,8 @@
  <a href="https://www.linkedin.com/in/fuzious/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
  <a href="mailto:arpitsrivastava2012@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
 </p> 
-# About Me
+
+# 👦 About Me
 
 -   🎓  I am a third year IIIT Vadodara CSE undergraduate.
 -   🔨  I am a blockchain - backend developer.
