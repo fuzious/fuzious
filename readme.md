@@ -14,7 +14,7 @@
 -   🚀  When free, you will find me playing Cricket or viewing CoinMarketCap
 
 
-# 🧰 Languages and Tools:
+# 🧰 My Toolkit:
 <p align="center">
 <img src="assets/java.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -23,7 +23,10 @@
 
 <img src="assets/ethereum.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/chainlink.svg" alt="Chainlink" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/vechain.svg" alt="Chainlink" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/aeternity.svg" alt="Aeternity" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/ocean-protocol.svg" alt="Ocean Protocol" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/filecoin.svg" alt="Filecoin" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/spring.jpg" alt="spring-boot" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" height="40" style="vertical-align:top; margin:4px">
