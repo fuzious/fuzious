@@ -26,8 +26,8 @@
 <img src="assets/ethereum.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px"> 
 <img src="assets/chainlink.svg" alt="Chainlink" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/vechain.svg" alt="Vechain" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/aeternity.svg" alt="Aeternity" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/ocean-protocol.svg" alt="Ocean Protocol" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg" alt="CosmosSDK" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cryptologos.cc/logos/algorand-algo-logo.svg?v=018" alt="Algorand" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/filecoin.svg" alt="Filecoin" height="40" style="vertical-align:top; margin:4px">
 </p>
 <p align="center">
