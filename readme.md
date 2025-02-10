@@ -15,21 +15,6 @@
 -   🚀  When free, you will find me playing Cricket or viewing CoinMarketCap
 
 
-# 🧰 My Toolkit
-<p align="center">
-<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="css" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" alt="c" height="40" style="vertical-align:top; margin:4px">
-</p>
-<p align="center">
-<img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://seeklogo.com/images/C/chainlink-link-logo-FB38A5933B-seeklogo.com.png" alt="Chainlink" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/5689864/87924261-ebdc6100-ca7e-11ea-8978-c9c65c2bd130.jpg" alt="Cosmwasm" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg" alt="CosmosSDK" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cryptologos.cc/logos/algorand-algo-logo.svg?v=018" alt="Algorand" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/F/filecoin-fil-logo-A6A4EAB825-seeklogo.com.png" alt="Filecoin" height="40" style="vertical-align:top; margin:4px">
-</p>
 <p align="center">
 <img src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png?v=638179441380000000" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring-boot" height="40" style="vertical-align:top; margin:4px">
