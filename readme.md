@@ -15,12 +15,3 @@
 -   🚀  When free, you will find me playing Cricket or viewing CoinMarketCap
 
 
-<p align="center">
-<img src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png?v=638179441380000000" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring-boot" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="mySQL" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-
